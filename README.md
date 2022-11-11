@@ -12,6 +12,12 @@ Until my website is up and running, I will be keeping a record of my progress in
 
 ---
 
+## November 11, 2022
+
+Today I began the conceptual design phase for my website. I started by reading [this article](https://www.hostinger.com/tutorials/web-developer-portfolio) that showcases many different developers's websites. I am leaning towards developing a more minimal but artisitc website like the websites of [Keita Yamada](https://p5aholic.me/info/) and [Maxime Bonhomme](https://bonhomme.lol/), However, I am not sure how conducive the React framework is to developing a website these (especially Keita Yamada's).
+
+I created a quick whiteboard markup of the main page of my website and what it would contain. At the momemt, I am planning on having my main page contain my name and four links to the pages: about me, what i'm working on now (blog page), projects, contact. I think that I might end up combing the blog page and projects page initially since I don't have many projects to show off. At the moment, my website feels like its going to be pretty static, so many choosing React wasn't the best idea. If I feel like it later, I might convert this website to a static site and come up with another, more dynamic web app idea! In the meantime, however, my next step is to start to develop the basic structure of the website in React!
+
 ## November 9, 2022
 
 Today I continued working through the [React tutorial documentation](https://reactjs.org/tutorial/tutorial.html). I learned about basic React components, components props, and how a component tells react what to display via the render method using JSX notation. Next, I learned how to have a react component respond to a click by including <code>onClick = {() => /_ some code _/}</code> I also learned about how to set a component's state by adding a constructor to the class with the form:
