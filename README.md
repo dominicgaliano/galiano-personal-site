@@ -12,6 +12,10 @@ Until my website is up and running, I will be keeping a record of my progress in
 
 ---
 
+## November 12, 2022
+
+Today I begin building the website. I am following the following [tutorial](https://www.youtube.com/watch?v=_oO4Qi5aVZs&ab_channel=JavaScriptMastery) as a guide. In this tutorial I learned about using vite when developing a React project to improve the speed of development. I am using [Tailwind CSS](https://tailwindcss.com/) as a CSS framework.
+
 ## November 11, 2022
 
 Today I began the conceptual design phase for my website. I started by reading [this article](https://www.hostinger.com/tutorials/web-developer-portfolio) that showcases many different developers's websites. I am leaning towards developing a more minimal but artisitc website like the websites of [Keita Yamada](https://p5aholic.me/info/) and [Maxime Bonhomme](https://bonhomme.lol/), However, I am not sure how conducive the React framework is to developing a website these (especially Keita Yamada's).
