@@ -12,6 +12,10 @@ Until my website is up and running, I will be keeping a record of my progress in
 
 ---
 
+## November 14, 2022
+
+Today I decided to go ahead and scrap the React plans. I just think that it is totally over-engineering the problem. Instead, I'm going to use this project as an opportunity to get more familiar with vanilla HTML, CSS, and JS.
+
 ## November 12, 2022
 
 Today I begin building the website. I am following the following [tutorial](https://www.youtube.com/watch?v=_oO4Qi5aVZs&ab_channel=JavaScriptMastery) as a guide. In this tutorial I learned about using vite when developing a React project to improve the speed of development. I am using [Tailwind CSS](https://tailwindcss.com/) as a CSS framework.
