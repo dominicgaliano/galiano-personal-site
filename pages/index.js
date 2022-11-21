@@ -38,7 +38,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
-                  href="https://s3.amazonaws.com/symp.csm.usprod/engr-utexas/files/218/21850d0b230aa83fc58dc8540f32a891.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20221120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221120T045123Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=9faec8ffe65ed866cfcc0369d512788c49101f5ada1bf9912312671d33cde9ce"
+                  href="https://github.com/dominicgaliano/-current-resume/blob/main/Dominic%20Galiano%20Resume.pdf"
                   target="_blank"
                   rel="noreferrer"
                 >
