@@ -69,13 +69,17 @@ export default function Home() {
               coding skill set!
             </p>
           </div>
-          <div className="text-5xl flex justify-center gap-16 py-3 text-grey-600 dark:text-gray-400">
-            <BsGithub href="https://github.com/dominicgaliano" />
-            <BsLinkedin href="https://www.linkedin.com/in/dominic-galiano/" />
+          <div className="text-5xl flex justify-center gap-16 pb-10 text-grey-600 dark:text-gray-400">
+            <a href="https://github.com/dominicgaliano">
+              <BsGithub />
+            </a>
+            <a href="https://www.linkedin.com/in/dominic-galiano/">
+              <BsLinkedin />
+            </a>
           </div>
         </section>
 
-        <section>
+        {/* <section>
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
@@ -233,7 +237,7 @@ export default function Home() {
               />
             </div>
           </div>
-        </section>
+        </section> */}
       </main>
     </div>
   );

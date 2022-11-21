@@ -12,6 +12,14 @@ Until my website is up and running, I will be keeping a record of my progress in
 
 ---
 
+## November, 20, 2022
+
+Today I finished up my initial website design. I ended up keeping it very simple, with just a profile picture, short bio, and some links, (and also a dark mode toggle)! After some messing with Cloudflare Pages, I was able to debug the development process and get the website live!
+
+## November, 19, 2022
+
+Today I began writing my website using Next.JS and TailwindCSS. I found a very good tutorial that recommended this stack, and I figured that it would be a good learning opportunity because I have found CSS to be very intimidating. I am sure that I could use TailwindCSS with vanilla HTML and Javascript, but at the moment, I want to follow a more structured tutorial.
+
 ## November 14, 2022
 
 Today I decided to go ahead and scrap the React plans. I just think that it is totally over-engineering the problem. Instead, I'm going to use this project as an opportunity to get more familiar with vanilla HTML, CSS, and JS.
