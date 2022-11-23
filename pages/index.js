@@ -47,7 +47,7 @@ export default function Home() {
               </li>
             </ul>
           </nav>
-          <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 overflow-hidden md:h-96 md:w-96">
+          <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-52 h-52 overflow-hidden md:h-96 md:w-96 sm:w-80 sm:h-80">
             <Image
               src={dominicProfileImage}
               layout="fill"
