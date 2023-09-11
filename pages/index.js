@@ -52,7 +52,7 @@ export default function Home() {
               src={dominicProfileImage}
               layout="fill"
               objectFit="cover"
-              alt="Photo of Dominic Galiano Smiling"
+              alt="Photo of Dominic Galiano"
             />
           </div>
           <div className="text-center p-10">
@@ -60,10 +60,10 @@ export default function Home() {
               Dominic Galiano
             </h2>
             <h3 className="text-2xl py-2 md:text-3xl dark:text-white">
-              Aspiring Software Engineer
+              Software Engineer
             </h3>
             <p className="text-md py-2 leading-8 text-grey-800 dark:text-gray-200 md:text-lg max-w-xl mx-auto">
-              I am a senior chemical engineering student at UT Austin pursuing a
+              I am a chemical engineering graduate of UT Austin pursuing a
               career in software engineering. I created this website to document
               my journey as I learn to solve real-world problems and develop my
               coding skill set!
