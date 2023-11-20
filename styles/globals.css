@@ -6,7 +6,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: Taviraj, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
@@ -19,7 +19,15 @@ a {
   box-sizing: border-box;
 }
 
-@font-face{
-  font-family: "burtons";
-  src: url("../public/Burtons.otf");
+@layer base {
+    @font-face {
+        font-family: Taviraj;
+        font-weight: 400;
+        src: url("../public/Taviraj-Black.ttf") format('ttf');
+    }
+    @font-face {
+        font-family: Taviraj;
+        font-weight: 700;
+        src: url("../public/Taviraj-Bold.ttf") format('ttf');
+    }
 }
