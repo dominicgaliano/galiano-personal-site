@@ -18,7 +18,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="bg-white px-10 md:px-20 lg:px-40 dark:bg-gray-900 font-taviraj">
+      <main className="bg-space_cadet-800 px-10 md:px-20 lg:px-40 dark:bg-space_cadet-300 font-taviraj">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
             <h1 className="text-3xl font-bold">Dominic Galiano</h1>
@@ -31,7 +31,7 @@ export default function Home() {
               </li>
               <li>
                 <a
-                  className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
+                  className="bg-gradient-to-r from-chinese_violet to-african_violet text-white px-4 py-2 rounded-md ml-8"
                   href="https://github.com/dominicgaliano/-current-resume/blob/main/Dominic%20Galiano%20Resume.pdf"
                   target="_blank"
                   rel="noreferrer"
@@ -41,7 +41,7 @@ export default function Home() {
               </li>
             </ul>
           </nav>
-          <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-52 h-52 overflow-hidden md:h-96 md:w-96 sm:w-80 sm:h-80">
+          <div className="relative mx-auto bg-gradient-to-b from-puce rounded-full w-52 h-52 overflow-hidden md:h-96 md:w-96 sm:w-80 sm:h-80">
             <Image
               src={dominicProfileImage}
               layout="fill"
@@ -50,7 +50,7 @@ export default function Home() {
             />
           </div>
           <div className="text-center p-10">
-            <h2 className="text-5xl py-2 text-teal-600 font-medium md:text-6xl dark:text-teal-400">
+            <h2 className="text-5xl py-2 text-chinese_violet font-medium md:text-6xl dark:text-african_violet">
               Dominic Galiano
             </h2>
             <h3 className="text-2xl py-2 md:text-3xl dark:text-white">
