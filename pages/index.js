@@ -57,10 +57,10 @@ export default function Home() {
               Software Engineer
             </h3>
             <p className="text-md py-2 leading-8 text-grey-800 dark:text-gray-200 md:text-lg max-w-xl mx-auto">
-              I am a chemical engineering graduate of UT Austin pursuing a
-              career in software engineering. I created this website to document
-              my journey as I learn to solve real-world problems and develop my
-              coding skill set!
+              I am a versatile full-stack engineer specializing in back-end and cloud
+              development. I strive to create scalable and innovative solutions,
+              and I am eager to contribute to dynamic projects and stay at the
+              forefront of the ever-evolving tech landscape.
             </p>
           </div>
           <div className="text-5xl flex justify-center gap-16 pb-10 text-grey-600 dark:text-gray-400">
