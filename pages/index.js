@@ -18,10 +18,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="bg-white px-10 md:px-20 lg:px-40 dark:bg-gray-900">
+      <main className="bg-white px-10 md:px-20 lg:px-40 dark:bg-gray-900 font-taviraj">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
-            <h1 className="text-xl font-burtons">Dominic Galiano</h1>
+            <h1 className="text-3xl font-bold">Dominic Galiano</h1>
             <ul className="flex items-center">
               <li>
                 <BsFillMoonStarsFill
