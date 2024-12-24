@@ -32,7 +32,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-chinese_violet to-african_violet text-white px-4 py-2 rounded-md ml-8"
-                  href="https://github.com/dominicgaliano/-current-resume/blob/main/Dominic%20Galiano%20Resume.pdf"
+                  href="https://github.com/dominicgaliano/-current-resume/blob/main/dgaliano-resume.pdf"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -57,10 +57,10 @@ export default function Home() {
               Software Engineer
             </h3>
             <p className="text-md py-2 leading-8 text-grey-800 dark:text-gray-200 md:text-lg max-w-xl mx-auto">
-              I am a versatile full-stack engineer specializing in back-end and cloud
-              development. I strive to create scalable and innovative solutions,
-              and I am eager to contribute to dynamic projects and stay at the
-              forefront of the ever-evolving tech landscape.
+              I am a versatile full-stack engineer specializing in back-end and
+              cloud development. I strive to create scalable and innovative
+              solutions, and I am eager to contribute to dynamic projects and
+              stay at the forefront of the ever-evolving tech landscape.
             </p>
           </div>
           <div className="text-5xl flex justify-center gap-16 pb-10 text-grey-600 dark:text-gray-400">
