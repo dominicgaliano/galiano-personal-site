@@ -1,0 +1,40 @@
+body {
+  background: #000;
+  color: #ddd;
+  font-family: 'DejaVu Sans Mono', monospace;
+  font-size: 12px;
+}
+
+a {
+  color: #888;
+  text-decoration: none;
+  border-bottom: 1px solid #888;
+}
+
+a:hover {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+p {
+  margin: 0 0 1em 0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.quote {
+  margin-top: 2em;
+  font-style: italic;
+  color: #888;
+}
+
+.profile-photo {
+  display: block;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
